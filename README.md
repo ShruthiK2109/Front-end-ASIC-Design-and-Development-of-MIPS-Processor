@@ -1,4 +1,5 @@
 # Front-end-ASIC-Design-and-Development-of-MIPS-Processor
 
-![mips block diagram](https://github.com/user-attachments/assets/b49dd1aa-2d02-452d-bdb6-174ea7df69a3)
+![mips block diagram](https://github.com/user-attachments/assets/681a0396-5f4e-4e02-8fd3-c622084740c9)
+
 
